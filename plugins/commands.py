@@ -45,7 +45,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://www.instagram.com/anuragmaheshwari_official')
-            ],[      
+            ],[
+            InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='https://t.me/Anurag_FileToLinkBot')
+            ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
@@ -90,7 +92,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://www.instagram.com/anuragmaheshwari_official')
-            ],[      
+            ],[
+            InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='https://t.me/Anurag_FileToLinkBot')
+            ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
