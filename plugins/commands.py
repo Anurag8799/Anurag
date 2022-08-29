@@ -41,7 +41,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', url="https://t.me/Autofiltermoviess_bot", callback_data='@Autofiltermoviess_bot')
+            InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://www.instagram.com/anuragmaheshwari_official')
@@ -91,7 +91,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', url="https://t.me/Autofiltermoviess_bot", callback_data='@Autofiltermoviess_bot')
+            InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://www.instagram.com/anuragmaheshwari_official')
