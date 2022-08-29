@@ -96,6 +96,34 @@ def get_reply_markup(query):
         ]
     return InlineKeyboardMarkup(buttons)
 
+ def __init__(
+        self,
+        text: str,
+        url: str = None,
+        callback_data: Union[str, object] = None,
+        switch_inline_query: str = None,
+        switch_inline_query_current_chat: str = None,
+        callback_game: CallbackGame = None,
+        pay: bool = None,
+        login_url: LoginUrl = None,
+        web_app: WebAppInfo = None,
+        **_kwargs: Any,
+    ):
+        # Required
+        self.text = text
+
+        # Optionals
+        self.url = url
+        self.login_url = login_url
+        self.callback_data = callback_data
+        self.switch_inline_query = switch_inline_query
+        self.switch_inline_query_current_chat = switch_inline_query_current_chat
+        self.callback_game = callback_game
+        self.pay = pay
+        self.web_app = web_app
+        self._id_attrs = ()
+        self._set_id_attrs()
+
 
 
 
