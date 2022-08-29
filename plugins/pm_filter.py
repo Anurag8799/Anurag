@@ -747,11 +747,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 SΞΛᏒCH HΞᏒΞ 💠', url='http://t.me/AnuragB8_bot')
+            InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', url='http://t.me/AnuragB8_bot')
             ],[
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://www.instagram.com/anuragmaheshwari_official')
-            ],[      
+            ],[
+            InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='https://t.me/Anurag_FileToLinkBot')
+            ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
