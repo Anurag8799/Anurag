@@ -51,6 +51,9 @@ async def start(client, message):
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
+            InlineKeyboardButton('👑 ᖴᗩCΞᗷOOK 👑', url='https://www.facebook.com/anurag.maheswari.925'),
+            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='https://www.instagram.com/anuragmaheshwari_official')
+            ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
@@ -97,6 +100,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            ],[
+            InlineKeyboardButton('👑 ᖴᗩCΞᗷOOK 👑', url='https://www.facebook.com/anurag.maheswari.925'),
+            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='https://www.instagram.com/anuragmaheshwari_official')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
         ]]
