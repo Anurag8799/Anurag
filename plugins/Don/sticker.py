@@ -1,6 +1,6 @@
 #Made
 #by
-#Don_Sflix
+#Anurag-Maheshwari
 
 from pyrogram import Client, filters
 
