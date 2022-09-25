@@ -25,4 +25,3 @@ async def throw_dart(client, message):
         disable_notification=True,
         reply_to_message_id=rep_mesg_id
     )
-
