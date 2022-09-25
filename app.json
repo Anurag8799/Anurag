@@ -24,11 +24,11 @@
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "Get this value from https://my.telegram.org or @USERS_RO_BOT",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "Get this value from https://my.telegram.org or @USERS_RO_BOT",
             "required": true
         },
         "CHANNELS": {
