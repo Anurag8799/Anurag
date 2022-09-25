@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/8769ANURAG/Anurag.git /Anurag
+  git clone https://github.com/Anurag8799/Anurag.git /Anurag
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Anurag
